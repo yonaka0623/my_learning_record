@@ -18,3 +18,11 @@
 ●polynomial_regression_analysis.ipynb
 
 多項式回帰を学ぶために作成したコード。
+
+● support_vector_regression.ipynb
+
+サポートベクトル回帰（SVR）を学ぶためのコード。
+
+● decision_tree_regression.ipynb
+
+回帰木を学ぶためのコード。
