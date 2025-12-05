@@ -14,7 +14,6 @@
 
 重回帰分析を学ぶために作成したコード。
 
-
 ●polynomial_regression_analysis.ipynb
 
 多項式回帰を学ぶために作成したコード。
@@ -26,3 +25,7 @@
 ● decision_tree_regression.ipynb
 
 回帰木を学ぶためのコード。
+
+●random_forest.ipynb
+
+ランダムフォレストを学ぶためのコード。
